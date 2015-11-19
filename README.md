@@ -1,4 +1,4 @@
-# hubot-choose
+# hubot-choose [![Build Status](https://travis-ci.org/altmetric/hubot-choose.svg?branch=master)](https://travis-ci.org/altmetric/hubot-choose)
 
 > I was elected to lead, not to read.
 
